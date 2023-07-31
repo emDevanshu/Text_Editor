@@ -5,17 +5,18 @@ This is a text editor created using Java swing
 
 # Text Editor ![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)
 
-This is a Java Maven application is a prototype version of a text editor.
+This is Java Maven application is a prototype version of a Text editor.
 
 
 ## Tech stack
-- apache commons library
+- Apache commons library
 - Java Swing to create GUI
 
 
 ## Features
 
-- 
-- Creates a new _splitted_ PDF according to the desired start and end range.
+- This application works similarly to a general text editor we use in Windows or Mac OS
+- It has functionalities like cut, copy, paste, select, change to font size.
+- Its also has three different UI themes.
 
 ### Reach me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devanshusharma10/)
