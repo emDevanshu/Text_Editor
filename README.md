@@ -7,6 +7,8 @@ This is a text editor created using Java swing
 
 This is Java Maven application is a prototype version of a Text editor.
 
+Click here to view the project --> https://www.linkedin.com/posts/devanshusharma10_task2-internship-development-activity-7074645094594674688-QFJI?utm_source=share&utm_medium=member_desktop
+
 
 ## Tech stack
 - Apache commons library
